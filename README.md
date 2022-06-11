@@ -1,4 +1,5 @@
 ### Hi there 👋 I'm Juan Pablo Mora Sarria
+---------------------
 
 <!--
 **JuanMora328/JuanMora328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🇨🇴 I'm from Cali, Colombia :)
-<br>
 
+- 🇨🇴 I'm from Cali, Colombia :)
 - 🔭 I’m currently studying at Universidad Autonoma de Occidente
 - 📚 I'm Engineering Informatics in my last year
 - 🌱 I’m currently learning Flutter, React JS and Node JS
