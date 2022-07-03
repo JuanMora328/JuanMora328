@@ -20,3 +20,14 @@ Here are some ideas to get you started:
 - 📚 I'm Engineering Informatics in my last year
 - 🌱 I’m currently learning Flutter, React JS and Node JS
 
+## My Abilities
+- Team work
+- Problem solving
+- Self-study
+- Answer's capacity.
+- Adaptability.
+- Attention to details.
+- Collaboration.
+- Communications skills.
+- Creativity.
+- Critical thinking
