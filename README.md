@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Juan Pablo Mora Sarria
+# Hi there 👋 I'm Juan Pablo Mora Sarria
 ---------------------
 
 <!--
