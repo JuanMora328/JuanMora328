@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🇨🇴 I'm from Cali, Colombia :)
+- 🔭 I’m currently working on Indra at APX DEVELOPER
 - 🔭 I’m currently studying at Universidad Autonoma de Occidente
 - 📚 I'm Engineering Informatics in my last year
 - 🌱 I’m currently learning Flutter, React JS and Node JS
