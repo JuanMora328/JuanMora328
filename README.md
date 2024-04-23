@@ -13,13 +13,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - 🔭 I’m currently working on Indra at APX DEVELOPER
+- 🔭 I’m currently studying at Universidad Autonoma de Occidente
 - ⚡ Fun fact: ...
 -->
 
 - 🇨🇴 I'm from Cali, Colombia :)
-- 🔭 I’m currently studying at Universidad Autonoma de Occidente
-- 📚 I'm Engineering Informatics in my last year
+- 🔭 I’m currently working on SATLOCK S.A.S at Junior Developer
+- 📚 I'm a computer engineering ⚡
 - 🌱 I’m currently learning Flutter, React JS and Node JS
+- 👨‍💼 Working with Sencha ExtJS, PHP, and Golang for full-stack development.
 
 ## My Abilities
 - Team work
